@@ -1,0 +1,21 @@
+.header{
+	background-color: blanchedalmond;
+	position: relative;
+	width: 100%;
+	color: rgb(61, 1, 1),
+}
+
+h1{
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 125px 0px 20px 0; 
+	
+}
+
+h2{
+	text-align: center;
+	font-size: 15px;
+	padding-bottom: 40px;
+	color: rgb(61, 1, 1),
+}
